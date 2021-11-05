@@ -1,0 +1,7 @@
+{
+  "name": "global-cap-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
