@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "global-cap-test",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
